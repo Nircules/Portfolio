@@ -14,15 +14,15 @@ const Contact = () => {
                             <div className="contact-icon">📧</div>
                             <div>
                                 <h3>Email</h3>
-                                <a href="mailto:your.email@example.com">your.email@example.com</a>
+                                <a href="mailto:nirbengiat@gmail.com">nirbengiat@gmail.com</a>
                             </div>
                         </div>
                         <div className="contact-item">
                             <div className="contact-icon">💼</div>
                             <div>
                                 <h3>LinkedIn</h3>
-                                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
-                                    linkedin.com/in/yourprofile
+                                <a href="https://www.linkedin.com/in/nircules/" target="_blank" rel="noopener noreferrer">
+                                    linkedin.com/in/nircules
                                 </a>
                             </div>
                         </div>
@@ -30,8 +30,8 @@ const Contact = () => {
                             <div className="contact-icon">💻</div>
                             <div>
                                 <h3>GitHub</h3>
-                                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
-                                    github.com/yourusername
+                                <a href="https://github.com/nircules" target="_blank" rel="noopener noreferrer">
+                                    github.com/nircules
                                 </a>
                             </div>
                         </div>
@@ -39,7 +39,7 @@ const Contact = () => {
                             <div className="contact-icon">📱</div>
                             <div>
                                 <h3>Phone</h3>
-                                <a href="tel:+1234567890">+1 (234) 567-890</a>
+                                <a href="tel:+972-50-678-9718">+972-50-678-9718</a>
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@ const Contact = () => {
                             </div>
                             <div className="form-group">
                                 <label htmlFor="email">Email</label>
-                                <input type="email" id="email" name="email" placeholder="your.email@example.com" required />
+                                <input type="email" id="email" name="email" placeholder="nirbengiat@gmail.com" required />
                             </div>
                             <div className="form-group">
                                 <label htmlFor="message">Message</label>

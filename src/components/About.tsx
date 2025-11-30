@@ -18,19 +18,19 @@ const About = () => {
                         </p>
                         <p>
                             When I'm not coding, you can find me exploring new technologies, contributing to
-                            open-source projects, or sharing knowledge with the developer community.
+                            open-source projects, or honing my skills through continuous learning.
                         </p>
                     </div>
                     <div className="skills-grid">
                         <div className="skill-card">
                             <div className="skill-icon">⚛️</div>
                             <h3>Frontend</h3>
-                            <p>React, TypeScript, HTML/CSS, Tailwind</p>
+                            <p>React, TypeScript, Django</p>
                         </div>
                         <div className="skill-card">
                             <div className="skill-icon">⚙️</div>
                             <h3>Backend</h3>
-                            <p>Node.js, Express, REST APIs, Databases</p>
+                            <p>Django, Python, Databases</p>
                         </div>
                         <div className="skill-card">
                             <div className="skill-icon">🛠️</div>
@@ -40,7 +40,7 @@ const About = () => {
                         <div className="skill-card">
                             <div className="skill-icon">🎨</div>
                             <h3>Design</h3>
-                            <p>UI/UX, Responsive Design, Figma</p>
+                            <p>UI/UX, Responsive Design, CSS</p>
                         </div>
                     </div>
                 </div>
